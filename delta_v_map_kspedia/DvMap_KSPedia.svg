@@ -741,13 +741,13 @@
      inkscape:snap-center="true"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
-     inkscape:zoom="0.5308195"
-     inkscape:cx="776.72628"
-     inkscape:cy="776.65504"
+     inkscape:zoom="0.75069214"
+     inkscape:cx="1090.2761"
+     inkscape:cy="257.24278"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7084-4"
+     inkscape:current-layer="svg4136"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:snap-text-baseline="true"
@@ -3336,7 +3336,7 @@
              height="45.213108"
              x="115.85859"
              y="1447.4576" /></flowRegion><flowPara
-           id="flowPara4752"></flowPara></flowRoot>    </g>
+           id="flowPara4752" /></flowRoot>    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4321,7 +4321,7 @@
        sodipodi:role="line"
        x="1869.9097"
        y="-11.489358"
-       id="tspan5385-6-3">2863.3 Mm</tspan></text>
+       id="tspan5385-6-3">2,863.33 Km</tspan></text>
   <g
      id="g7044-29-8-5"
      transform="matrix(0.48257043,0,0,0.48724931,-58.205438,1323.0825)"
