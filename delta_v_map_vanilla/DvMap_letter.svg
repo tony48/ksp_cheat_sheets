@@ -613,12 +613,12 @@
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
      inkscape:zoom="1.5959597"
-     inkscape:cx="120.00944"
-     inkscape:cy="867.92409"
+     inkscape:cx="692.20742"
+     inkscape:cy="442.63598"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5703"
+     inkscape:current-layer="g7084-5"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:snap-text-baseline="true"
@@ -952,16 +952,16 @@
            id="flowPara4875"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller" /><flowPara
            id="flowPara5079"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;font-size:8.75px">Map design by /u/swashlebucky. </flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;font-size:8.75px"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Aller;-inkscape-font-specification:Aller">Map design by /u/swashlebucky. </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Aller;-inkscape-font-specification:Aller"
            id="flowPara4739">Design inspired by Kowgan and WAC. </flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;font-size:8.75px"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Aller;-inkscape-font-specification:Aller"
            id="flowPara4741">Atmospheric numbers by Kowgan. </flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;font-size:8.75px"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Aller;-inkscape-font-specification:Aller"
            id="flowPara4743">Vacuum numbers by /u/CuriousMetaphor.</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;font-size:8.75px"
-           id="flowPara4745">Relay Antenna calculations by Snark. </flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;font-size:8.75px"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Aller;-inkscape-font-specification:Aller"
+           id="flowPara4745">Relay Antenna calculations from the Wiki. </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;font-family:Aller;-inkscape-font-specification:Aller"
            id="flowPara4747">Original subway concept by /u/JellyCubes.</flowPara><flowPara
            id="flowPara4744"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller" /><flowPara
@@ -979,7 +979,7 @@
          sodipodi:role="line"
          id="tspan4790"
          x="32.736557"
-         y="64.679184">1.2.2</tspan></text>
+         y="64.679184">1.3.0</tspan></text>
     <g
        transform="translate(-0.903149,5.3883809)"
        id="g7218">
@@ -4387,7 +4387,7 @@
      transform="translate(12.046275,-4.9388248)">
     <g
        style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.37754941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.46609555,0,0,0.51243108,124.87823,-137.0524)"
+       transform="matrix(0.46609555,0,0,0.51243108,124.87823,-127.71699)"
        id="g4869-6-0">
       <path
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4415,31 +4415,26 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.87999916px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.48031497;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="124.55756"
-       y="395.47894"
+       y="404.81436"
        id="text4895-1"
        sodipodi:linespacing="125%"><tspan
-         id="tspan3931-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
-         sodipodi:role="line"
-         x="124.55756"
-         y="395.47894">L1C4</tspan><tspan
          id="tspan5047"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
          sodipodi:role="line"
          x="124.55756"
-         y="407.97894">L2C3</tspan><tspan
+         y="404.81436">L2C5</tspan><tspan
          id="tspan5049"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
          sodipodi:role="line"
          x="124.55756"
-         y="420.47894">L3C2</tspan></text>
+         y="417.31436">L3C4</tspan></text>
   </g>
   <g
      id="g7084-2"
      transform="translate(10.16653,124.45042)">
     <g
        style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.37754941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.46609555,0,0,0.51243108,124.87823,-137.0524)"
+       transform="matrix(0.46609555,0,0,0.51243108,124.87823,-127.72322)"
        id="g4869-6-0-3">
       <path
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -4467,24 +4462,19 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.87999916px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.48031497;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="124.55756"
-       y="395.47894"
+       y="404.80811"
        id="text4895-1-5"
        sodipodi:linespacing="125%"><tspan
-         id="tspan3931-9-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
-         sodipodi:role="line"
-         x="124.55756"
-         y="395.47894">L1C3</tspan><tspan
          id="tspan5047-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
          sodipodi:role="line"
          x="124.55756"
-         y="407.97894">L2C1</tspan><tspan
+         y="404.80811">L2C4</tspan><tspan
          id="tspan5049-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
          sodipodi:role="line"
          x="124.55756"
-         y="420.47894">L3C1</tspan></text>
+         y="417.30811">L3C3</tspan></text>
     <g
        id="g7084-8"
        transform="translate(36.028479,259.13923)">
@@ -4577,7 +4567,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
            sodipodi:role="line"
            x="124.55756"
-           y="395.47894">L1C1</tspan><tspan
+           y="395.47894">L1C2</tspan><tspan
            id="tspan5047-3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
            sodipodi:role="line"
@@ -4624,16 +4614,49 @@
            y="395.47894"
            id="text4895-1-6"
            sodipodi:linespacing="125%"><tspan
-             id="tspan5047-1"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
-             sodipodi:role="line"
-             x="124.55756"
-             y="395.47894">L2C5</tspan><tspan
              id="tspan5049-59"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
              sodipodi:role="line"
              x="124.55756"
-             y="407.97894">L3C4</tspan></text>
+             y="395.47894">L3C5</tspan></text>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.37754941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.46609555,0,0,0.51243108,184.77677,-11.827549)"
+           id="g4869-6-0-6-9">
+          <path
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -65.465148,1042.1849 c -16.43255,2.5303 -13.2903,-12.4366 -12.80069,-12.8007 z"
+             id="path4770-9-4-8-4"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -73.448388,1034.2018 3.66597,-3.666 2.88335,2.8834 -3.6797,3.6797 z"
+             id="path4772-7-6-2-8"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -68.011228,1027.9683 c 3.46002,0 3.51494,3.5149 3.51494,3.5149"
+             id="path4788-0-7-7-9"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -69.658852,1024.2338 c 9.00703,0 8.73242,8.7324 8.73242,8.7324 m -9.61116,-12.3572 c 13.45563,0 13.37325,13.3733 13.37325,13.3733"
+             id="path4790-1-8-60-7"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.87999916px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.48031497;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="184.45613"
+           y="520.7038"
+           id="text4895-1-6-3"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan5049-59-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
+             sodipodi:role="line"
+             x="184.45613"
+             y="520.7038">L3C5</tspan></text>
       </g>
       <g
          id="g7084-9"
@@ -4675,7 +4698,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
              sodipodi:role="line"
              x="124.55756"
-             y="395.47894">L2C4</tspan><tspan
+             y="395.47894">L2C5</tspan><tspan
              id="tspan5049-6"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
              sodipodi:role="line"
@@ -4683,5 +4706,48 @@
              y="407.97894">L3C4</tspan></text>
       </g>
     </g>
+    <g
+       style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.37754941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.46609555,0,0,0.51243108,124.75878,-44.622083)"
+       id="g4869-6-0-3-0">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -65.465148,1042.1849 c -16.43255,2.5303 -13.2903,-12.4366 -12.80069,-12.8007 z"
+         id="path4770-9-4-7-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -73.448388,1034.2018 3.66597,-3.666 2.88335,2.8834 -3.6797,3.6797 z"
+         id="path4772-7-6-4-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -68.011228,1027.9683 c 3.46002,0 3.51494,3.5149 3.51494,3.5149"
+         id="path4788-0-7-6-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.37754941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -69.658852,1024.2338 c 9.00703,0 8.73242,8.7324 8.73242,8.7324 m -9.61116,-12.3572 c 13.45563,0 13.37325,13.3733 13.37325,13.3733"
+         id="path4790-1-8-6-9"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.87999916px;line-height:125%;font-family:Aller;-inkscape-font-specification:'Aller, Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.48031497;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="124.43811"
+       y="487.90927"
+       id="text4895-1-5-9"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5047-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
+         sodipodi:role="line"
+         x="124.43811"
+         y="487.90927">L2C4</tspan><tspan
+         id="tspan5049-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Aller;-inkscape-font-specification:Aller;fill:#b3b3b3"
+         sodipodi:role="line"
+         x="124.43811"
+         y="500.40927">L3C3</tspan></text>
   </g>
 </svg>
